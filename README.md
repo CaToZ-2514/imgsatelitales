@@ -2,7 +2,7 @@
 
 ## Autor(es)
 
-[Nombre(s) del(los) autor(es)]
+[Camilo Torres, Angelly Ríos, Juan Borjas]
 
 
 ## Descripción del Repositorio
