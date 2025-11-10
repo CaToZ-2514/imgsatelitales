@@ -1,0 +1,16 @@
+# Procesamiento de datos ráster
+rasterio>=1.4.0
+numpy>=1.23
+matplotlib>=3.7
+
+# Opcional: manejo vectorial y estadísticas zonales
+geopandas>=0.14
+rasterstats>=0.19
+
+# Dependencias auxiliares
+shapely>=2.0
+fiona>=1.9
+pyproj>=3.6
+
+# Cuadernos interactivos
+jupyter>=1.0

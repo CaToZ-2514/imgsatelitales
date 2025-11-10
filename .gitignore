@@ -1,0 +1,9 @@
+# Ignorar archivos ZIP
+*.zip
+
+# Ignorar archivos TIFF
+*.tiff
+
+# Ignorar todo el contenido de la carpeta data
+data/
+
