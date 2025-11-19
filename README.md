@@ -113,4 +113,4 @@ Herramienta empleada: ChatGPT (asistencia conversacional y técnica).
 
 ## Resultados
 
-[Breve mención de los resultados principales obtenidos. Se pueden incluir imágenes o referencias al reporte completo.]
+Empezando por el principio se logró realizar un reconocimiento de la pagina de Copernicus para la adquisición de imagenes satelitales para su análisis y sus distintas bandas, y como distintas combinaciones de estas son muy importantes para el monitoreo de la ecología de las zonas de interés. Bajo el código que tenemos no es muy dificil de trabajar, todo se ajusta casi que solo.
